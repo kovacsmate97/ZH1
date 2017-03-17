@@ -46,11 +46,13 @@
     <Compile Include="Barna_a_medve.cs" />
     <Compile Include="bolha.cs" />
     <Compile Include="CsacskaNyul.cs" />
+    <Compile Include="Hóvirág.cs" />
     <Compile Include="Masnapos_a_szöcske.cs" />
     <Compile Include="Para_a_roka.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TreMedve.cs" />
+    <Compile Include="Verseny.cs" />
     <Compile Include="ZsigaCsiga.cs" />
   </ItemGroup>
   <ItemGroup>

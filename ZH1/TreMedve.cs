@@ -5,9 +5,10 @@ using System.Text;
 
 namespace ZH1
 {
-    public class TreMedve
+    public class TreMedve : Verseny
     {
-        public void Ordit()
+
+        public bool Ordit()
         {
             throw new System.NotImplementedException();
         }
