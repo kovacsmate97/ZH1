@@ -5,11 +5,11 @@ using System.Text;
 
 namespace ZH1
 {
-    public class Hóvirág
+    public class Hóvirág : Verseny
     {
         public void FoldbeGyokerezik()
         {
-            throw new System.NotImplementedException();
+            
         }
     }
 }

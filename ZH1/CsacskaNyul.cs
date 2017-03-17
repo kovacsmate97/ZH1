@@ -5,8 +5,9 @@ using System.Text;
 
 namespace ZH1
 {
-    public class CsacskaNyul
+    public class CsacskaNyul : Verseny
     {
+        
         public void Megijed()
         {
             throw new System.NotImplementedException();

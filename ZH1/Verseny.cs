@@ -9,21 +9,23 @@ namespace ZH1
     {
         private int Atlagsebesseg;
         private int MegtettTav;
-        private int Korok;
+        private int Korok = 100;
         private int Labankenti_sebesseg;
-        private int VersenyzoID;
+        public List<Verseny> VersenyzoID = new List<Verseny>();
+
+        
 
         public void Tajekoztat()
         {
-            throw new System.NotImplementedException();
+            Korok++;
         }
 
-        public void Start()
+        public void Rajt()
         {
             throw new System.NotImplementedException();
         }
 
-        public void Stop()
+        public void Vége()
         {
             throw new System.NotImplementedException();
         }

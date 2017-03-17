@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ZH1
 {
-    public class Masnapos_a_szöcske
+    public class Masnapos_a_szöcske : Verseny
     {
         public void ValtozoHaladas()
         {

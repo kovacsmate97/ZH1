@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ZH1
 {
-    public class Barna_a_medve
+    public class Barna_a_medve : Verseny
     {
         public void Haladas()
         {

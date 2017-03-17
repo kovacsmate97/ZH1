@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ZH1
 {
-    public class Para_a_roka
+    public class Para_a_roka : Verseny
     {
         public void VarABokorban()
         {

@@ -5,9 +5,9 @@ using System.Text;
 
 namespace ZH1
 {
-    public class ZsigaCsiga
+    public class ZsigaCsiga : Verseny
     {
-        public void Megi()
+        public void Megijed()
         {
             throw new System.NotImplementedException();
         }
