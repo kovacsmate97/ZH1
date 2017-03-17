@@ -8,4 +8,8 @@ namespace ZH1
     public class bolha
     {
     }
+
+    public class Bolha
+    {
+    }
 }
