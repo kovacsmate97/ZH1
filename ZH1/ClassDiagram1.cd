@@ -49,12 +49,5 @@
       <FileName>Masnapos_a_szöcske.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="ZH1.bolha">
-    <Position X="2.25" Y="2.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>bolha.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Font Name="Tahoma" Size="8.25" />
 </ClassDiagram>
