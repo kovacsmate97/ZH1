@@ -7,5 +7,9 @@ namespace ZH1
 {
     public class CsacskaNyul
     {
+        public void Megijed()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

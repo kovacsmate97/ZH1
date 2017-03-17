@@ -11,5 +11,9 @@ namespace ZH1
 
     public class Bolha
     {
+        public void Kapaszkodik()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

@@ -7,5 +7,9 @@ namespace ZH1
 {
     public class Masnapos_a_szöcske
     {
+        public void ValtozoHaladas()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

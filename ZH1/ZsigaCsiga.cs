@@ -7,5 +7,9 @@ namespace ZH1
 {
     public class ZsigaCsiga
     {
+        public void Megi()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

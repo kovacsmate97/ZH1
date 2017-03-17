@@ -7,5 +7,9 @@ namespace ZH1
 {
     public class Para_a_roka
     {
+        public void VarABokorban()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

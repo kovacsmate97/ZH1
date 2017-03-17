@@ -7,5 +7,9 @@ namespace ZH1
 {
     public class Barna_a_medve
     {
+        public void Haladas()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
